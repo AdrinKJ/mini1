@@ -69,7 +69,7 @@ li.breadcrumb-item i.fa.fa-angle-right {
 	vertical-align: middle;
 }
 .breadcrumb > li {
-    color: #e74c3c ! important;
+    color: #03c988 ! important;
     font-size: 16px ! important;
     vertical-align: middle ! important;
 }
@@ -313,7 +313,7 @@ li#menu-academico{
 .w3layouts-right {
     float: left;
     width: 24.25%;
-    background: #e74c3c;
+    background: #03c988;
     text-align: center;
     padding: 1.3em 1em 0.1em;
     margin: 0 1%;
@@ -1356,7 +1356,7 @@ td span.work{
 	color:#fff;
 }
 td span.mar{
-	background: #e74c3c;
+	background: #03c988;
 	color:#fff;
 }
 .nav > li > a {
@@ -1440,7 +1440,7 @@ td span.mar{
 .nav-sidebar ul li a span{
 	color: #fff;
     font-size: 0.8em;
-    background:#e74c3c;
+    background:#03c988;
     border-radius: 10px;
     width: 25px;
     height: 18px;
@@ -3766,7 +3766,7 @@ h3.icon-subheading {
 h2.agileits-icons-title,h3.agileits-icons-title {
     text-align: center;
     font-size: 33px;
-    color: #e74c3c;
+    color: #03c988;
 }
 .icons a {
     color: #999;
@@ -4472,7 +4472,7 @@ label.control-label {
 }
 /*---errorpage-----*/
 .main {
-    background: #3b8fc5;
+    background: #070a52;
     min-height: 794px;
 }
 .main p {
@@ -4546,7 +4546,7 @@ label.control-label {
 .back a {
     display: block;
     font-size: 1.2em;
-    color: #e74c3c;
+    color: #03c988;
     text-decoration: none;
     padding-top: 6px;
     text-align: center;
@@ -4715,7 +4715,7 @@ ul.bt-list {
 }
 /*---signin-----*/
 .main-wthree{
-		background:#3b8fc5;
+		background:#070a52;
 		min-height:794px;
 }
 span.prfil-img img {
@@ -4734,7 +4734,7 @@ span.prfil-img img {
 .main-wthree form span {
     width: 29%;
     float: left;
-    background: #e74c3c;
+    background: #03c988;
     padding: 10.2px 10px;
     position: relative;
     color: #fff;
@@ -4749,7 +4749,7 @@ span.prfil-img img {
     height: 0;
     right: -11px;
     border-top: 6px solid rgba(0, 0, 0, 0);
-    border-left: 11px solid #e74c3c;
+    border-left: 11px solid #03c988;
     border-bottom: 6px solid rgba(0, 0, 0, 0);
     top: 14px;
 }
@@ -4800,7 +4800,7 @@ span.prfil-img img {
     text-align: right;
 }
 .main-wthree input[type="submit"]{
-	background-color:#005377;
+	background-color:#00337c;
 	color:#fff;
 	padding:11px;
 	outline: none;
@@ -4816,7 +4816,7 @@ span.prfil-img img {
 	-ms-transition: 0.5s all;
 }
 .main-wthree input[type="submit"]:hover{
-	background:#e74c3c;
+	background:#03c988;
 }
 
 .sin-w3-agile {
@@ -5288,7 +5288,7 @@ canvas#bar, canvas#line, canvas#pie {
     height: 270px !important;
 }
 .main {
-    background: #3b8fc5;
+    background: #070a52;
     min-height: 675px;
 }
 .questions h5, .questions h2 {

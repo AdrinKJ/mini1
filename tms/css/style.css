@@ -37,7 +37,7 @@ label{
 }
 /*-- top-header --*/
 .logo a {
-    color: #3F84B1;
+    color: #002b5b;
     letter-spacing: 1px;
     font-size: 2em;
     font-weight: 400;
@@ -46,13 +46,13 @@ label{
     font-family: 'Oswald', sans-serif;
 }
 .logo span {
-    color:#34ad00;
+    color:#03c988;
 }
 i.fa.fa-home {
     font-size: 24px;
 }
 .top-header {
-    background-color: #3F84B1;
+    background-color: #002b5b;
     border-bottom: 0 none;
 	height: 36px;
     line-height: 35px;
@@ -118,7 +118,7 @@ li.ned,li.wrt,li.tol{
     margin-top: 7px;
 }
 .securetxt {
-    color: #d6c41f;
+    color: #03c988;
     line-height: 18px;
     margin-top: 0px;
 	font-size: 14px;
@@ -153,7 +153,7 @@ i.fa.fa-lock {
 .bann-info h2 {
     font-size: 26px;
     margin-bottom: 30px;
-    color: #34ad00;
+    color: #03c988;
     font-weight: 700;
 }
 .bann-info {
@@ -211,7 +211,7 @@ button.seabtn {
 	 text-indent: 0;
     padding: 6px 20px;
     color: #fff;
-    background-color:#34ad00;
+    background-color:#03c988;
     border: 0;
     border-radius: 2px;
     -webkit-transition: all .2s;
@@ -230,7 +230,7 @@ button.seabtn:focus,button.seabtn:hover{
 .bann-info1 h3 {
     font-size: 2.1em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
     text-align: center;
     margin-top: 25px;
 }
@@ -267,7 +267,7 @@ i.fa.fa-mobile  {
 }
 .rupes h3 {
     font-size: 20px;
-    color: #34ad00;
+    color: #03c988;
 	 font-weight: 700;
 }
 .rupes h4 {
@@ -279,7 +279,7 @@ i.fa.fa-mobile  {
     color: #000000;
 }
 .rupes h4 a:hover{
-    color:#34ad00;
+    color:#03c988;
 }
 .rupes p{
     font-size: 15px;
@@ -295,7 +295,7 @@ a.learn{
     text-indent: 0;
     padding: 6px 20px;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #03c988;
     border: 0;
     border-radius: 2px;
     -webkit-transition: all .2s;
@@ -315,7 +315,7 @@ a.learn:focus,a.learn:hover {
 .track h3 {
     font-size: 2em;
     font-weight: 700;
-    color: #34AD00;
+    color: #03c988;
 }
 .track p {
     font-size: 1.2em;
@@ -329,7 +329,7 @@ a.learn:focus,a.learn:hover {
 }
 i.fa.fa-map-marker {
     font-size: 3em;
-    color: #34ad00;
+    color: #03c988;
 }
 .rup-left a {
     display: inline-block;
@@ -357,7 +357,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 .routes h3 {
     font-size: 2em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 .routes p {
     font-size: 1.2em;
@@ -372,7 +372,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 .holiday h3 {
     font-size: 2em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 .holiday p {
     font-size: 1.2em;
@@ -398,7 +398,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 }
 .footer-top h3 {
     font-size: 1.7em;
-    color: #34ad00;
+    color: #03c988;
     margin-bottom: 1em;
     font-weight: 700;
 }
@@ -422,7 +422,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     color:#4CFF00;
 }
 .footer-btm {
-    background:#4CB320;
+    background:#03C988;
     padding: 0.5em 0;
 	text-align:center;
 }
@@ -438,7 +438,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     color:#000000;
 }
 .copy-right {
-    background:#34ad00;
+    background:#03c988;
     text-align: center;
     padding: 0.5em 0;
 }
@@ -473,7 +473,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 }
 .bus-tp {
     padding: 0.5em;
-    background: #34ad00;
+    background: #03c988;
 }
 .bus-btm li {
     float: left;
@@ -552,13 +552,13 @@ li.fare {
 .bus-midd h5 {
     font-weight: 700;
     font-size: 20px;
-    color: #34ad00;
+    color: #03c988;
 }
 a.view {
     padding: 6px 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #03c988;
     border: 0;
     font-size: 13px;
     border-radius: 2px;
@@ -590,13 +590,13 @@ ul.first {
 }
 .about h2 {
     font-size: 2.5em;
-    color: #34ad00;
+    color: #03c988;
     margin-bottom: 1em;
     font-weight: 700;
 }
 .about h3 {
     font-size: 2.2em;
-    color: #34ad00;
+    color: #03c988;
     margin-bottom: 1em;
     font-weight: 700;
 }
@@ -617,7 +617,7 @@ ul.first {
 }
 .about h6 {
     font-size: 1em;
-    color: #34ad00;
+    color: #03c988;
     text-align:right;
 }
 .ab-tp {
@@ -633,7 +633,7 @@ ul.first {
     margin: 0em 0em 0.5em 0em;
 }
 .ab-rt ul li a:hover{
-  color: #34ad00;
+  color: #03c988;
   text-decoration:none;
 }
 .ab-rt li{
@@ -647,7 +647,7 @@ ul.first {
 .travel h3 {
     font-size: 1.7em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 .travel p {
     font-size: 15px;
@@ -683,7 +683,7 @@ li.dat {
     font-size: 19px;
     margin-bottom: 10px;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 ul.rou-secnd p {
     margin: 0;
@@ -696,7 +696,7 @@ a.det {
     padding: 6px 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #03c988;
     border: 0;
     font-size: 13px;
     border-radius: 2px;
@@ -706,7 +706,7 @@ a.det {
     display: inline-block;
 }
 .tra-top h6 a {
-    color: #34ad00;
+    color: #03c988;
     font-size: 16px;
     font-weight: 700;
     text-decoration: underline;
@@ -727,7 +727,7 @@ a.det {
 }
 .offers-1 h3 {
     font-size: 21px;
-    color:#34AD00;
+    color:#03c988;
     font-weight: 700;
 }
 .offers-1 h6 {
@@ -744,7 +744,7 @@ a.off{
     font-size: 14px;
     padding: 8px 18px;
     text-decoration: none;
-	background:#34ad00;
+	background:#03c988;
 }
 a.off:hover{
 	background:#1f8dd6;
@@ -804,7 +804,7 @@ i.fa.fa-gift{
 .hotels-top h3{
     font-size: 26px;
     margin-bottom: 50px;
-    color: #34ad00;
+    color: #03c988;
     font-weight: 700;
 	text-align:center;
 }
@@ -924,7 +924,7 @@ i.fa.fa-gift{
 /*-- terms --*/
 .terms h3 {
     font-size: 1.5em;
-    color: #34ad00;
+    color: #03c988;
     font-weight: 700;
 }
 .terms h6 {
@@ -975,7 +975,7 @@ i.fa.fa-gift{
 a.regist {
     padding: 10px 32px!important;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #03c988;
     border: 0;
     border-radius: 2px;
     -webkit-transition: all .2s;
@@ -1002,7 +1002,7 @@ a.regist:hover{
 }
 .agent-left input[type="submit"] {
     outline: none;
-    background: #34ad00;
+    background: #03c988;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -1036,7 +1036,7 @@ select {
 }
 .agent h3 {
     font-size: 1.5em;
-    color: #34ad00;
+    color: #03c988;
     font-weight: 700;
     margin-top: 1em;
 }
@@ -1053,7 +1053,7 @@ select {
 }
 .contact h3 {
     font-size: 2em;
-    color: #34ad00;
+    color: #03c988;
     margin-bottom: 1.5em;
     font-weight: 700;
 }
@@ -1109,7 +1109,7 @@ span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
     text-align: center;
 }
 .details-middle h3 a {
-    color: #34ad00;
+    color: #03c988;
     text-decoration: none;
 }
 .details-middle {
@@ -1167,7 +1167,7 @@ span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
 .room-bottom h3 {
     font-size: 1.8em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 .room-bottom {
     padding: 2em 0;
@@ -1175,7 +1175,7 @@ span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
 .rom-btm h4 {
     font-size: 1.5em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
 }
 .rom-btm p {
     font-size: 15px;
@@ -1217,7 +1217,7 @@ span.glyphicon.glyphicon-eye-open, span.glyphicon.glyphicon-thumbs-up {
 	width: 14px;
     height: 14px;
     display: inline-block;
-    border: 2px solid #4CB320;
+    border: 2px solid #03C988;
     position: absolute;
     left: 0;
     top: 4px;
@@ -1247,7 +1247,7 @@ h4.sing {
     font-size: 1.5em;
     font-weight: 700;
     margin-bottom: 1em;
-    color: #34ad00;
+    color: #03c988;
 }
 .hotel-police p {
     font-size: 15px;
@@ -1279,7 +1279,7 @@ ul.off-mo li {
     margin-bottom: 1em;
 }
 ul.off-mo span {
-    color:#34ad00;
+    color:#03c988;
     font-weight: 700;
     font-size: 1.3em;
 }
@@ -1309,7 +1309,7 @@ ul.off-mo span {
 .selectroom_right h3 {
     font-size: 1.7em;
     font-weight: 600;
-	color:#34ad00;
+	color:#03c988;
 }
 p.dow {
     font-size: 15px;
@@ -1334,7 +1334,7 @@ p.dow {
 }
 .selectroom_right h4 {
     font-size: 1.2em;
-    color: #34ad00;
+    color: #03c988;
     line-height: 1.8em;
 	font-weight:600;
 }
@@ -1421,7 +1421,7 @@ li.descrip {
     text-align: center;
     margin-bottom: 0.5em;
     padding: 0 0 0.5em 0;
-    color: #34AD00;
+    color: #03c988;
     font-weight: 600;
 }
 .writ {
@@ -1437,7 +1437,7 @@ button.subbtn {
     text-indent: 0;
     padding: 6px 20px;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #03c988;
     border: 0;
     border-radius: 2px;
     -webkit-transition: all .2s;
@@ -1475,7 +1475,7 @@ button.subbtn:focus, button.subbtn:hover {
 .tracking h3 {
     font-size: 1.7em;
     font-weight: 600;
-    color: #34ad00;
+    color: #03c988;
     margin-bottom: 1em;
 }
 .tracking-midle {
@@ -1491,7 +1491,7 @@ button.subbtn:focus, button.subbtn:hover {
 	width:51%;
 }
 .login-right h3{
-    color: #4CB320;
+    color: #03C988;
     font-weight: normal;
     font-size: 17px;
 
@@ -1517,17 +1517,17 @@ button.subbtn:focus, button.subbtn:hover {
 	margin:20px 0;
 }
 .login-right h4 a{
-	color:#4CB320;
+	color:#03C988;
 	text-decoration:none;
 }
 .login-right h4 a:hover{
 	color:#A9A8A8;
 }
 .login-grids p a {
-	color:#4CB320;
+	color:#03C988;
 }
 .login-right input[type="submit"] {
-  background:#4CB320;
+  background:#03C988;
   color: #fff;
   font-size: 20px;
   border: none;
@@ -1542,7 +1542,7 @@ button.subbtn:focus, button.subbtn:hover {
  margin-top:20px;
 }
 .login-right input[type="submit"]:hover {
-	background:#3F84B1;
+	background:#002b5b;
 }
 .login-grids p {
     font-size: 12px;
@@ -1600,7 +1600,7 @@ button.subbtn:focus, button.subbtn:hover {
 }
 /*-- //login --*/
 .privacy h3 {
-    color: #34AD00;
+    color: #03c988;
     font-size: 1.7em;
     font-weight: 700;
     margin-bottom: 1em;
@@ -1616,7 +1616,7 @@ button.subbtn:focus, button.subbtn:hover {
 }
 .privacy h4 {
     font-size: 1.3em;
-    color: #34AD00;
+    color: #03c988;
     font-weight: 400;
     margin: 1em 0;
 }
@@ -1627,12 +1627,12 @@ button.subbtn:focus, button.subbtn:hover {
 .faq h2 {
     font-size: 2em;
     font-weight: 700;
-    color:#34ad00;
+    color:#03c988;
     line-height: 1.8em;
 }
 .faq h3 {
     font-size: 1.7em;
-    color:#34ad00;
+    color:#03c988;
     font-weight: 600;
     margin-bottom: 0.5em;
     line-height: 1.8em;
@@ -1660,11 +1660,11 @@ button.subbtn:focus, button.subbtn:hover {
 }
 .app-right h3 {
     font-size: 28px;
-     color: #34ad00;
+     color: #03c988;
     line-height: 35px;
 }
 .app-right h3 span {
-	color:#3F84B1;
+	color:#002b5b;
 	margin:0 7px;
 }
 .app-right p {
@@ -1690,7 +1690,7 @@ button.subbtn:focus, button.subbtn:hover {
 	text-align: center;
 }
 .banner-text h3{
-  color: #34ad00;
+  color: #03c988;
   font-size: 3em;
   font-weight: 400;
   margin: 0;
@@ -1709,7 +1709,7 @@ button.subbtn:focus, button.subbtn:hover {
 	text-align:center;
 }
 .banner-bottom-grid h4 {
-    color: #34ad00;
+    color: #03c988;
     margin: 2em 0 1em 0;
     font-size: 1.6em;
     font-weight: 700;
@@ -1722,7 +1722,7 @@ button.subbtn:focus, button.subbtn:hover {
   line-height: 1.8em;
 }
 .services-icon {
-  background: #3F84B1;
+  background: #002b5b;
   width: 120px;
   height: 120px;
   line-height: 136px;
@@ -1750,10 +1750,10 @@ button.subbtn:focus, button.subbtn:hover {
   top: 5px;
 }
 .red h4{
-	 color: #34ad00;
+	 color: #03c988;
 }
 .green h4{
-	 color: #34ad00;
+	 color: #03c988;
 }
 ul.callbacks_tabs.callbacks2_tabs a:after{
 	border:2px solid #505b6f;
@@ -1770,17 +1770,17 @@ ul.callbacks_tabs.callbacks2_tabs {
 /*-- blog --*/
 .comments-list h3{
 	font-size:2em;
-	color:#4CB320;
+	color:#03C988;
 	margin:0 0 1em;
 	text-transform:capitalize;
 	text-decoration: none;
 	line-height: 1.3em;
 }
 .comments-list h3 a{
-	color:#4CB320;
+	color:#03C988;
 }
 .comments-list h3 a:hover{
-	color:#3F84B1;
+	color:#002b5b;
 }
 .comments-list ul{
 	padding:1.5em 0 2em; 
@@ -1799,7 +1799,7 @@ ul.callbacks_tabs.callbacks2_tabs {
     color: #1f8dd6;
 }
 .comments-list ul li a:hover{
-	color:#4CB320;
+	color:#03C988;
 }
 .comments-list ul li i{
 	margin:0 1em;
@@ -1829,7 +1829,7 @@ ul.paging{
 }
 .popular h3, .subscribe h3, .categories h3, .instagram h2, .tags h3 {
     padding: 1em;
-    background: #3F84B1;
+    background: #002b5b;
     color: #fff;
     font-size: 1.5em;
     text-align: center;
@@ -1844,18 +1844,18 @@ ul.paging{
 	width:80%;
 }
 .popular-left h4{
-	color:#4CB320;
+	color:#03C988;
 	font-size:1.5em;
 	margin:0;
 }
 .popular-right h5 a{
 	font-size:1.5em;
-	color:#3F84B1;
+	color:#002b5b;
 	text-decoration:none;
 	text-transform:capitalize;
 }
 .popular-right h5 a:hover{
-	 color: #34ad00;
+	 color: #03c988;
 }
 .popular-right p{
 	font-size:14px;
@@ -1894,14 +1894,14 @@ ul.paging{
 .subscribe input[type="submit"]{
 	outline:none;
 	border:none;
-	background:#4CB320;
+	background:#03C988;
 	font-size:1em;
 	color:#fff;
 	padding:10px 0;
 	width:100%;
 }
 .subscribe input[type="submit"]:hover{
-	background:#3F84B1;
+	background:#002b5b;
 }
 .categories ul li{
 	padding-left: 2em;
@@ -1916,7 +1916,7 @@ ul.paging{
     text-transform: capitalize;
 }
 .categories ul li a:hover{
-    color: #4CB320;
+    color: #03C988;
 }
 .instagram-grid{
 	float:left;
@@ -1930,20 +1930,20 @@ ul.paging{
 	margin: 0 0px 9px;
 }
 .tags ul li a {
-    border: 1px solid #3F84B1;
+    border: 1px solid #002b5b;
     padding: 3px 12px;
     font-size: 14px;
-    color: #3F84B1;
+    color: #002b5b;
     text-decoration: none;
 }
 .recent-comments h3 {
-    color: #4CB320;
+    color: #03C988;
     font-size: 1.5em;
 }
 .tags ul li a:hover{
-	border: 1px solid #4CB320;
+	border: 1px solid #03C988;
     color: #fff;
-	background:#4CB320;
+	background:#03C988;
 }
 .blog {
     padding: 5em 0;
@@ -1974,7 +1974,7 @@ ul.paging{
 	line-height:1.8em;
 }
 .admin-right p a{
-	color: #4CB320;
+	color: #03C988;
     text-decoration: none;
     display: block;
     margin: 1em 0 0;
@@ -1989,11 +1989,11 @@ ul.paging{
 }
 .recent-comments-grid-right h4 a {
     font-size: 1em;
-    color: #3F84B1;
+    color: #002b5b;
     text-decoration: none;
 }
 .recent-comments-grid-right h4 a:hover{
-	color:#4CB320;
+	color:#03C988;
 }
 .recent-comments-grid-right p{
 	margin:1em 0 0;
@@ -2004,7 +2004,7 @@ ul.paging{
 .recent-comments-grid-right p span{
 	display:block;
 	margin:1em 0 0;
-	color:#4CB320;
+	color:#03C988;
 }
 .recent-comments-grid-right{
 	float:right;
@@ -2051,14 +2051,14 @@ ul.paging{
 	outline:none;
 	padding:10px 0;
 	width:100%;
-	background:#4CB320;
+	background:#03C988;
 	border:none;
 	font-size:1em;
 	color:#fff;
 	text-align:center;
 }
 .leave-comment input[type="submit"]:hover{
-	background:#3F84B1;
+	background:#002b5b;
 }
 /*-- //single1 --*/
 .footer-social-icons ul li {
@@ -2197,7 +2197,7 @@ ul.paging{
 	text-decoration:none;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:22px;
-	color:#3F84B1;
+	color:#002b5b;
 	opacity: 1;
 	}
 
@@ -2243,8 +2243,8 @@ ul.set-1 {
     margin-left: 266px;
 }
 .navbar-default {
-    background-color: #4CB320 !important;
-    border-color: #4CB320 !important;
+    background-color: #03C988 !important;
+    border-color: #03C988 !important;
 }
 .navbar {
     min-height: 0px !important;
@@ -2263,7 +2263,7 @@ ul.nav.navbar-nav li a {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
    color:#4CFF00 !important;
-    background-color: #4CB320 !important;
+    background-color: #03C988 !important;
 }
 .navbar-collapse {
     padding-right: 0px !important;
@@ -2486,7 +2486,7 @@ ul.nav.navbar-nav li a {
 .bann-info1 h3 {
     font-size: 1.5em;
     font-weight: 700;
-    color: #34ad00;
+    color: #03c988;
     text-align: center;
     margin-top: 25px;
 }
@@ -2744,20 +2744,20 @@ li.seat {
 	margin-right: 0px;
 }
 .navbar-default .navbar-toggle {
-    border-color: #4CB320;
+    border-color: #03C988;
 }
 .navbar-toggle .icon-bar {
     width: 26px;
     height: 3px;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #4CB320;
+    background-color: #03C988;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-color: #4CB320;
+    border-color: #03C988;
 }
 ul.nav.navbar-nav li a {
     font-size: 15px;
@@ -4172,7 +4172,7 @@ ul.rout {
 }
 .bus-tp {
     padding: 0.5em 0;
-    background: #34ad00;
+    background: #03c988;
 }
 .bus-tp P {
     font-size: 13px;

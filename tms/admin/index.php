@@ -53,7 +53,8 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 	<div class="main-wthree">
 	<div class="container">
 	<div class="sin-w3-agile">
-		<h2>Sign In</h2>
+		<h1 align='center'>Wayfarer</h1>
+		<h2>Sign In To Access</h2>
 		<form  method="post">
 			<div class="username">
 				<span class="username">Username:</span>
