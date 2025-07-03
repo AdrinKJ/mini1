@@ -116,7 +116,7 @@ table.bt tfoot td:first-of-type:before,
 table.bt tfoot td:first-of-type .bt-content,
 table.bt tbody td:first-of-type:before,
 table.bt tbody td:first-of-type .bt-content {
-  padding-top: 10px;
+  padding-top: 12px;
 }
 
 table.bt tfoot th:last-of-type:before,

@@ -3,23 +3,25 @@ session_start();
 error_reporting(0);
 include('includes/config.php');
 if(strlen($_SESSION['login'])==0)
-	{	
-header('location:index.php');
+{	
+	header('location:index.php');
 }
 else{
 if(isset($_POST['submit6']))
-	{
-$name=$_POST['name'];
-$mobileno=$_POST['mobileno'];
-$email=$_SESSION['login'];
+{
+	$name=$_POST['name'];
+	$mobileno=$_POST['mobileno'];
+	$email=$_SESSION['login'];
 
-$sql="update tblusers set FullName=:name,MobileNumber=:mobileno where EmailId=:email";
-$query = $dbh->prepare($sql);
-$query->bindParam(':name',$name,PDO::PARAM_STR);
-$query->bindParam(':mobileno',$mobileno,PDO::PARAM_STR);
-$query->bindParam(':email',$email,PDO::PARAM_STR);
-$query->execute();
-$msg="Profile Updated Successfully";
+	
+
+	$sql="update tblusers set FullName=:name,MobileNumber=:mobileno where EmailId=:email";
+	$query = $dbh->prepare($sql);
+	$query->bindParam(':name',$name,PDO::PARAM_STR);
+	$query->bindParam(':mobileno',$mobileno,PDO::PARAM_STR);
+	$query->bindParam(':email',$email,PDO::PARAM_STR);
+	$query->execute();
+	$msg="Profile Updated Successfully";
 }
 
 ?>
@@ -103,8 +105,7 @@ foreach($results as $result)
 {	?>
 
 	<p style="width: 350px;">
-		
-			<b>Name</b>  <input type="text" name="name" value="<?php echo htmlentities($result->FullName);?>" class="form-control" id="name" required="">
+		<b>Name</b>  <input type="text" name="name" value="<?php echo htmlentities($result->FullName);?>" class="form-control" id="name" required="">
 	</p> 
 
 <p style="width: 350px;">
@@ -115,20 +116,26 @@ foreach($results as $result)
 <p style="width: 350px;">
 <b>Email Id</b>
 	<input type="email" class="form-control" name="email" value="<?php echo htmlentities($result->EmailId);?>" id="email" readonly>
-			</p>
+			</p><br>
+	
+<p style="width: 350px;">
+	<b>Upload Your Image for ID Verification</b>
+	<input type="file" id="image" name="image"> 
+	(JPEG only, less than 65KB, size: 2 x 2 inches or 35 x 45 mm @ 300 DPI)<br>
+    <br>
 <p style="width: 350px;">
 <b>Last Updation Date : </b>
 <?php echo htmlentities($result->UpdationDate);?>
 </p>
 
 <p style="width: 350px;">	
-<b>Reg Date :</b>
-<?php echo htmlentities($result->RegDate);?>
-			</p>
-<?php }} ?>
-
+	<b>Reg Date :</b>
+	<?php echo htmlentities($result->RegDate);?>
+</p>
+<?php }
+} ?>
 			<p style="width: 350px;">
-<button type="submit" name="submit6" class="btn-primary btn">Updtae</button>
+<button type="submit" name="submit6" class="btn-primary btn">Update</button>
 			</p>
 			</form>
 
